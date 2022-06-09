@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6qbicH6hj9BKRsTA5pN0tob3ixfX7jTSkR7K/R5rBaMnDT8VUt6/gB6xNjoVRMb+JhDNASAPu9Pm8i8csbIjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\ProjectDotNet\\HR.LeaveManagement\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
